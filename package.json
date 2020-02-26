@@ -4,7 +4,7 @@
   "description": "Bootstrap project for jest and puppeteer",
   "main": "index.js",
   "scripts": {
-    "test": "yarn test"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/abadri/jest-puppeteer-bootstrap/issues"
   },
-  "homepage": "https://github.com/abadri/jest-puppeteer-bootstrap#readme"
+  "homepage": "https://github.com/abadri/jest-puppeteer-bootstrap#readme",
+  "dependencies": {
+    "jest": "^25.1.0",
+    "jest-puppeteer": "^4.4.0",
+    "puppeteer": "^2.1.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.8.4",
+    "@babel/preset-env": "^7.8.4",
+    "babel-jest": "^25.1.0"
+  }
 }
