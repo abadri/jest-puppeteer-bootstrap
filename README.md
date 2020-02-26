@@ -1,7 +1,7 @@
 # jest-puppeteer-bootstrap
 
 ## Prerequsites
-1. NodeJS >= v12.0.0
+1. [NodeJS >= v12.0.0](http://nodejs.org)
 2. [yarn v1.x.x](https://classic.yarnpkg.com/en/)
 
 ## Setup
