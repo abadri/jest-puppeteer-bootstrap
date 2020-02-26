@@ -6,7 +6,7 @@
 ## Setup
 
 ```bash
-git clone git clone https://github.com/abadri/jest-puppeteer-bootstrap.git
+git clone https://github.com/abadri/jest-puppeteer-bootstrap.git
 cd jest-puppeteer-bootstrap
 npm install
 ```
