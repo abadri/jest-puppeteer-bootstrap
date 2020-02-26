@@ -1,0 +1,19 @@
+{
+  "name": "jest-puppeteer-bootstrap",
+  "version": "1.0.0",
+  "description": "Bootstrap project for jest and puppeteer",
+  "main": "index.js",
+  "scripts": {
+    "test": "yarn test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abadri/jest-puppeteer-bootstrap.git"
+  },
+  "author": "abadri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/abadri/jest-puppeteer-bootstrap/issues"
+  },
+  "homepage": "https://github.com/abadri/jest-puppeteer-bootstrap#readme"
+}
